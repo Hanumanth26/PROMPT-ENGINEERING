@@ -10,7 +10,7 @@ Develop a comprehensive report for the following exercises:
 
 ### 1.	Explain the foundational concepts of Generative AI.
 
-   • Generative AI is a branch of artificial intelligence that focuses on creating new data rather than simply analyzing existing information. It utilizes advanced machine learning techniques, particularly deep learning models, to generate text, images, audio, and even code that closely resembles human-created content. At its core, Generative AI leverages probabilistic models to learn patterns from large datasets and produce outputs that exhibit creativity and originality.
+   • Generative AI is a branch of artificial intelligence that focuses on creating new data rather than simply analyzing existing information. It utilizes advanced machine learning techniques, particularly deep learning models, to generate text, images, audio, and even code closely resembling human-created content. At its core, Generative AI leverages probabilistic models to learn patterns from large datasets and produce outputs that exhibit creativity and originality.
    
    • One of the key foundational concepts of Generative AI is neural networks, particularly deep neural networks like Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs). GANs consist of two neural networks—a generator and a discriminator—that work against each other to improve the quality of generated data. The generator creates new samples, while the discriminator evaluates their authenticity, leading to progressively better outputs. VAEs, on the other hand, learn probabilistic representations of data to generate new instances that share similarities with the training data.
    
